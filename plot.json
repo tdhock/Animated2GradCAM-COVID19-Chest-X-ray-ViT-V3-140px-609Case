@@ -4128,5 +4128,7 @@
  "geom6_tile_plotcolormap" 
 ] 
 } 
-} 
+},
+  "title":"Classifying chest X-rays, plot confidence",
+  "source":"https://github.com/TyBruceChen/Animinted2GradCAM?tab=readme-ov-file"
 }
